@@ -1,7 +1,9 @@
+#!/bin/bash
+#Description
+
 #Date: 13/3/2018
 #Author: Wagner Wang, JoyBin
 
-#!/bin/bash
 
 #--------------config-------------
 user=username #Your Oray username
