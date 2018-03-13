@@ -1,3 +1,6 @@
+#Date: 13/3/2018
+#Author: Wagner Wang, JoyBin
+
 #!/bin/bash
 
 #--------------config-------------
