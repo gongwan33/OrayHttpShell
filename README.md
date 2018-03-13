@@ -12,8 +12,8 @@ sudo chmod a+x ./ddns_oray.sh
 
 | Variable Name | Description |
 |---------------|:-----------:|
-| user          | Your User Name |
-| passwd        | Your Password |
+| user          | Your user name |
+| passwd        | Your password |
 | hostname      | Your domain. If there are more than one, please separate with ',' |
 
 + Add new task in crontab.
